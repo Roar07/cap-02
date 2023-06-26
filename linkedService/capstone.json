@@ -1,0 +1,13 @@
+{
+	"name": "capstone",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-5927360116228621.1.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/4274b600-8e89-461e-a8bf-1f0b558177cb/resourceGroups/spark/providers/Microsoft.Databricks/workspaces/Atul_test",
+			"existingClusterId": "0625-230042-tcvpxqpb"
+		}
+	}
+}
